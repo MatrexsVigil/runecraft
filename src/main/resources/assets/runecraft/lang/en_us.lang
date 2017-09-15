@@ -1,0 +1,23 @@
+itemGroup.runecraft=RuneCraft
+
+# Items
+item.air_element_item.name=Air Element
+item.animal_element_item.name=Animal Element
+item.chaos_element_item.name=Chaos Element
+item.death_element_item.name=Death Element
+item.earth_element_item.name=Earth Element
+item.fire_element_item.name=Fire Element
+item.life_element_item.name=Life Element
+item.light_element_item.name=Light Element
+item.lightning_element_item.name=Lightning Element
+item.metal_element_item.name=Metal Element
+item.mind_element_item.name=Mind Element
+item.order_element_item.name=Order Element
+item.plant_element_item.name=Plant Element
+item.spirit_element_item.name=Spirit Element
+item.void_element_item.name=Void Element
+item.water_element_item.name=Water Element
+
+item.belt_move_air_item.name=Belt of Move Air
+
+

@@ -1,0 +1,5 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "runecraft:items/lightning_element_item"
+	}}

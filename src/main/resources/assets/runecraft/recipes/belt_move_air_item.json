@@ -1,0 +1,15 @@
+{
+  "result": {
+    "item": "runecraft:belt_move_air_item"
+  },
+  "group": "runecraft",
+  "ingredients": [
+    {
+      "item": "minecraft:feather"
+    },
+    {
+      "item": "minecraft:leather"
+    }
+  ],
+  "type": "forge:ore_shapeless"
+}

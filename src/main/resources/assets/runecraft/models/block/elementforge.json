@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "up": "runecraft:blocks/elementforge_top",
+        "down": "runecraft:blocks/elementforge_bottom",
+        "north": "runecraft:blocks/elementforge_front",
+        "south": "runecraft:blocks/elementforge_side",
+        "west": "runecraft:blocks/elementforge_side",
+        "east": "runecraft:blocks/elementforge_side",
+        "particle": "runecraft:blocks/elementforge_side"
+    }
+}
